@@ -1,2 +1,2 @@
-# TangleLyso
-Simulation of PET masters project with entanglement included
+# phantom
+MPhys Oct 2016
